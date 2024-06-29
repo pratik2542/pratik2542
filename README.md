@@ -4,10 +4,11 @@
 
 
 - 👋 Hi, I’m @pratik2542, a passionate developer with a keen eye for the vast data landscapes of the internet. <br>
-- 🚀 Interests: Delving deep into developing software, structuring colossal datasets, exploring big data, and pushing the frontiers of data science.  <br>
 - 🌟 Background: Recently completed my studies in Artificial Intelligence at Centennial College, Toronto. Now diving into the professional world as a developer. <br>
+- 📚 Education: I hold a B.Tech in Computer Science from Indus University, Ahmedabad, India, and an Post graduation advanced Diploma in Artificial Intelligence from Centennial College, Toronto, Ontario, Canada.<br>
+- 💼 Professional: Currently working as a developer, passionate about creating innovative solutions and applications using AI and data science.<br>
 - 🛠️ Currently Working: Enhancing my software developing expertise at Ddrops Company, Woodbridge, Ontario. Embracing the journey of transforming data into actionable insights. <br>
-- 🔍 Interests: Fascinated by the realms of data mining, data structures, big data, neural networks, artificial intelligence, and data science. I love exploring the hidden stories within data. <br> <br> <br>
+- 🔍 Interests: Fascinated by the realms of data mining, data structures, big data, neural networks, artificial intelligence, and data science. I love exploring the hidden stories within data and the internet. <br> <br> <br>
 
 🌐 Reach Me: <br> <br>
 LinkedIn: Pratiksinh Makwana <br>
