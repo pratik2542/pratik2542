@@ -3,7 +3,7 @@
 
 
 
-👋 Hi, I’m @pratik2542, a passionate developer with a keen eye for the vast data landscapes of the internet.
+👋 Hi, I’m @pratik2542, a passionate developer with a keen eye for the vast data landscapes of the internet. <br>
 🚀 Interests: Delving deep into developing software, structuring colossal datasets, exploring big data, and pushing the frontiers of data science. 
 🌟 Background: Recently completed my studies in Artificial Intelligence at Centennial College, Toronto. Now diving into the professional world as a developer.
 🛠️ Currently Working: Enhancing my software developing expertise at Ddrops Company, Woodbridge, Ontario. Embracing the journey of transforming data into actionable insights.
