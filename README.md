@@ -7,11 +7,11 @@
 - 🚀 Interests: Delving deep into developing software, structuring colossal datasets, exploring big data, and pushing the frontiers of data science.  <br>
 - 🌟 Background: Recently completed my studies in Artificial Intelligence at Centennial College, Toronto. Now diving into the professional world as a developer. <br>
 - 🛠️ Currently Working: Enhancing my software developing expertise at Ddrops Company, Woodbridge, Ontario. Embracing the journey of transforming data into actionable insights. <br>
-- 🔍 Interests: Fascinated by the realms of data mining, data structures, big data, neural networks, artificial intelligence, and data science. I love exploring the hidden stories within data. <br> <br>
+- 🔍 Interests: Fascinated by the realms of data mining, data structures, big data, neural networks, artificial intelligence, and data science. I love exploring the hidden stories within data. <br> <br> <br>
 
-🌐 Reach Me:
+🌐 Reach Me: <br> <br>
 LinkedIn: Pratiksinh Makwana <br>
-Portfolio: <a href="https://pratiksinh-makwana.vercel.app"> Click Me!</a> <br>
+Portfolio: <a href="https://pratiksinh-makwana.vercel.app"> Click Me!</a> <br> <br>
 💬 Fun Facts: Avid reader 📚, swimmer 🏊‍♂️, and globe-trotter 🌍. Forever curious and always learning.  <br> <br>
 Let's connect and explore the world of data together! 🚀 <br> <br>
 
