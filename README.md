@@ -3,13 +3,18 @@
 
 
 
+👋 Hi, I’m @pratik2542, a passionate developer with a keen eye for the vast data landscapes of the internet.
+🚀 Interests: Delving deep into developing software, structuring colossal datasets, exploring big data, and pushing the frontiers of data science. 
+🌟 Background: Recently completed my studies in Artificial Intelligence at Centennial College, Toronto. Now diving into the professional world as a developer.
+🛠️ Currently Working: Enhancing my software developing expertise at Ddrops Company, Woodbridge, Ontario. Embracing the journey of transforming data into actionable insights.
+🔍 Interests: Fascinated by the realms of data mining, data structures, big data, neural networks, artificial intelligence, and data science. I love exploring the hidden stories within data.
 
-- 👋 Hi, I’m @pratik2542
-- 👀 I’m interested in data on the internet.Data mine, data structure, big data and data science.
-- 🌱 I’m currently learning pyhton, artificial intelligence from Centennial college, Toronto, Ontario.
-- 📫 How to reach me    Linkedin:- https://www.linkedin.com/in/pratiksinh-makwana-43488a189/
-- Portfolio:- https://www.pratiksinh-makwana.vercel.app   
--  I love to read, swim, and travel.
+🌐 Reach Me:
+LinkedIn: Pratiksinh Makwana
+Portfolio: <a href="https://pratiksinh-makwana.vercel.app"> Click Me!</a>
+💬 Fun Facts: Avid reader 📚, swimmer 🏊‍♂️, and globe-trotter 🌍. Forever curious and always learning.
+Let's connect and explore the world of data together! 🚀
+
 
 
 <a href="https://app.daily.dev/pratik2542"><img src="https://api.daily.dev/devcards/0e2423ee4df14e04903d3e4dbc39e7c0.png?r=63t" width="400" alt="PRATIKSINH MAKWANA's Dev Card"/></a>
